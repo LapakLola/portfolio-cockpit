@@ -28,8 +28,8 @@
   "skills.6": "Quality & Security: Vitest, end-to-end testing, Sentry; OWASP, OAuth/JWT/session authentication",
   "projects.title": "Projects",
   "projects.gymtree.title": "GymTree",
-  "projects.gymtree.desc": "Solo-built fitness platform, in App Store review. Full-stack across backend API, coach web, trainee mobile app, marketing site, and background workers.",
-  "projects.gymtree.badge": "2025",
+  "projects.gymtree.desc": "Solo-built fitness platform live on the App Store. Full-stack across backend API, coach web, trainee mobile app, marketing site, subscriptions, and background workers.",
+  "projects.gymtree.badge": "App Store",
   "projects.claudeLocalDocs.title": "claude-local-docs",
   "projects.claudeLocalDocs.desc": "Open-source Claude Code plugin. Local-first docs indexer with vector embeddings, BM25, Reciprocal Rank Fusion, and cross-encoder reranking.",
   "projects.claudeLocalDocs.badge": "OSS",
@@ -47,7 +47,6 @@
   "hero.greeting": "Hello",
   "hero.name": "I'm Matteo",
   "hero.cta": "Explore my work",
-
   "experience.scroll": "SCROLL TO CONTINUE",
   "experience.hero.meta.period": "Period",
   "experience.hero.meta.location": "Location",
@@ -64,7 +63,6 @@
   "experience.stack.title": "Stack",
   "experience.locked.title": "Detailed role gated",
   "experience.locked.body": "Scope, ownership, team size and architecture are available with an access code. Request one via email or LinkedIn.",
-
   "experience.01.meta.period": "2018 — 2019",
   "experience.01.meta.city": "ROME",
   "experience.01.meta.region": "RETAIL",
@@ -87,7 +85,6 @@
   "experience.01.ownership.3": "",
   "experience.01.ownership.4": "",
   "experience.01.stack.body": "—",
-
   "experience.02.meta.period": "2019 — 2023",
   "experience.02.meta.city": "ROME",
   "experience.02.meta.region": "CRM",
@@ -110,7 +107,6 @@
   "experience.02.ownership.3": "",
   "experience.02.ownership.4": "",
   "experience.02.stack.body": "—",
-
   "experience.03.meta.period": "2024 — PRESENT",
   "experience.03.meta.city": "SWITZERLAND",
   "experience.03.meta.region": "AVIATION",
@@ -133,7 +129,6 @@
   "experience.03.ownership.3": "",
   "experience.03.ownership.4": "",
   "experience.03.stack.body": "—",
-
   "experience.04.meta.period": "2023 — 2024",
   "experience.04.meta.city": "SWITZERLAND",
   "experience.04.meta.region": "CONSUMER",
@@ -156,7 +151,6 @@
   "experience.04.ownership.3": "",
   "experience.04.ownership.4": "",
   "experience.04.stack.body": "—",
-
   "experience.05.meta.period": "2025 — PRESENT",
   "experience.05.meta.city": "FITNESS",
   "experience.05.meta.region": "AI COACH",
@@ -179,7 +173,6 @@
   "experience.05.ownership.3": "**Stripe-powered subscriptions** and **Sentry** for production observability.",
   "experience.05.ownership.4": "Workout and nutrition plans generated via **structured output from LLMs**.",
   "experience.05.stack.body": "TypeScript · Hono · Prisma · PostgreSQL · Redis · Expo",
-
   "cockpit.hud.speed": "V",
   "cockpit.hud.x": "X",
   "cockpit.hud.z": "Z",
@@ -245,7 +238,7 @@
   "cockpit.sections.experience.sub": "5 companies · aviation → consumer → retail",
   "cockpit.sections.projects.label": "PROJECTS",
   "cockpit.sections.projects.title": "Projects",
-  "cockpit.sections.projects.sub": "GymTree · claude-local-docs · matteodante.it",
+  "cockpit.sections.projects.sub": "Maestro · GymTree · claude-local-docs",
   "cockpit.sections.skills.label": "SKILLS",
   "cockpit.sections.skills.title": "Stack",
   "cockpit.sections.skills.sub": "TS · React · Node · PHP · .NET",
@@ -279,5 +272,12 @@
   "cockpit.mobile.turnLeft": "Turn left",
   "cockpit.mobile.turnRight": "Turn right",
   "cockpit.audio.toggleOn": "Mute background music",
-  "cockpit.audio.toggleOff": "Unmute background music"
+  "cockpit.audio.toggleOff": "Unmute background music",
+  "projects.maestro.title": "Maestro",
+  "projects.maestro.desc": "Native iOS AI tutor on the App Store. It turns any learning goal into a source-grounded course of short lessons, quizzes, review, and an always-on tutor chat.",
+  "projects.maestro.badge": "App Store",
+  "projects.maestro.link": "Open App Store",
+  "projects.gymtree.link": "Open App Store",
+  "projects.claudeLocalDocs.link": "Open GitHub",
+  "projects.portfolio.link": "Open GitHub"
 }

@@ -46,6 +46,14 @@ Senior software engineer, 8+ years across aviation, high-traffic consumer platfo
 
 ---
 
+## Notable Projects
+
+- **[Maestro: Learn Anything](https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4)** — native iOS AI tutor on the App Store. Turns a learning goal into source-grounded lessons, quizzes, review, and tutor chat.
+- **[GymTree: Workout & AI Coach](https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4)** — solo-built fitness app on the App Store: backend API, coach web, trainee mobile app, worker fleet, subscriptions, and production AI coach.
+- **[claude-local-docs](https://github.com/matteodante/claude-local-docs)** — open-source Claude Code plugin for local-first documentation retrieval with vector search, BM25, RRF, and reranking.
+
+---
+
 ## Education
 
 - **B.Sc. in Computer Science**, Unitelma Sapienza University, Rome · 2018–2021 (not completed)

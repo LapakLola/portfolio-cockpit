@@ -15,3 +15,12 @@ export const INSTAGRAM_USER = 'matteodante_'
 export const INSTAGRAM_URL = `https://instagram.com/${INSTAGRAM_USER}` as const
 
 export const SOCIAL_URLS = [GITHUB_URL, LINKEDIN_URL, INSTAGRAM_URL] as const
+
+export const MAESTRO_APP_STORE_URL =
+  'https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4' as const
+export const MAESTRO_APP_STORE_URL_IT =
+  'https://apps.apple.com/it/app/maestro-impara-tutto/id6780267046?uo=4' as const
+export const GYMTREE_APP_STORE_URL =
+  'https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4' as const
+export const GYMTREE_APP_STORE_URL_IT =
+  'https://apps.apple.com/it/app/gymtree-palestra-coach-ai/id6761392403?uo=4' as const

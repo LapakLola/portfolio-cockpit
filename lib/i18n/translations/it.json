@@ -28,8 +28,8 @@
   "skills.6": "Qualità & Sicurezza: Vitest, test end-to-end, Sentry; OWASP, autenticazione OAuth/JWT/session",
   "projects.title": "Progetti",
   "projects.gymtree.title": "GymTree",
-  "projects.gymtree.desc": "Piattaforma fitness sviluppata interamente da me, in revisione su App Store. Full-stack tra API backend, web per il coach, app mobile per i trainee, sito marketing e worker background.",
-  "projects.gymtree.badge": "2025",
+  "projects.gymtree.desc": "Piattaforma fitness sviluppata interamente da me e live su App Store. Full-stack tra API backend, web coach, app mobile trainee, sito marketing, abbonamenti e worker background.",
+  "projects.gymtree.badge": "App Store",
   "projects.claudeLocalDocs.title": "claude-local-docs",
   "projects.claudeLocalDocs.desc": "Plugin open-source per Claude Code. Indicizzatore documentazione local-first con embeddings vettoriali, BM25, Reciprocal Rank Fusion e reranking cross-encoder.",
   "projects.claudeLocalDocs.badge": "OSS",
@@ -47,7 +47,6 @@
   "hero.greeting": "Ciao",
   "hero.name": "Sono Matteo",
   "hero.cta": "Scopri i miei lavori",
-
   "experience.scroll": "SCORRI PER CONTINUARE",
   "experience.hero.meta.period": "Periodo",
   "experience.hero.meta.location": "Sede",
@@ -64,7 +63,6 @@
   "experience.stack.title": "Stack",
   "experience.locked.title": "Ruolo dettagliato protetto",
   "experience.locked.body": "Scope, responsabilità, dimensione del team e architettura sono disponibili con un codice di accesso. Richiedilo via email o LinkedIn.",
-
   "experience.01.meta.period": "2018 — 2019",
   "experience.01.meta.city": "ROMA",
   "experience.01.meta.region": "RETAIL",
@@ -87,7 +85,6 @@
   "experience.01.ownership.3": "",
   "experience.01.ownership.4": "",
   "experience.01.stack.body": "—",
-
   "experience.02.meta.period": "2019 — 2023",
   "experience.02.meta.city": "ROMA",
   "experience.02.meta.region": "CRM",
@@ -110,7 +107,6 @@
   "experience.02.ownership.3": "",
   "experience.02.ownership.4": "",
   "experience.02.stack.body": "—",
-
   "experience.03.meta.period": "2024 — OGGI",
   "experience.03.meta.city": "SVIZZERA",
   "experience.03.meta.region": "AVIAZIONE",
@@ -133,7 +129,6 @@
   "experience.03.ownership.3": "",
   "experience.03.ownership.4": "",
   "experience.03.stack.body": "—",
-
   "experience.04.meta.period": "2023 — 2024",
   "experience.04.meta.city": "SVIZZERA",
   "experience.04.meta.region": "CONSUMER",
@@ -156,7 +151,6 @@
   "experience.04.ownership.3": "",
   "experience.04.ownership.4": "",
   "experience.04.stack.body": "—",
-
   "experience.05.meta.period": "2025 — OGGI",
   "experience.05.meta.city": "FITNESS",
   "experience.05.meta.region": "AI COACH",
@@ -179,7 +173,6 @@
   "experience.05.ownership.3": "**Abbonamenti con Stripe** e **Sentry** per l'observability in produzione.",
   "experience.05.ownership.4": "Programmi di allenamento e nutrizione generati tramite **structured output dagli LLM**.",
   "experience.05.stack.body": "TypeScript · Hono · Prisma · PostgreSQL · Redis · Expo",
-
   "cockpit.hud.speed": "V",
   "cockpit.hud.x": "X",
   "cockpit.hud.z": "Z",
@@ -245,7 +238,7 @@
   "cockpit.sections.experience.sub": "5 aziende · aviazione → consumer → retail",
   "cockpit.sections.projects.label": "PROGETTI",
   "cockpit.sections.projects.title": "Progetti",
-  "cockpit.sections.projects.sub": "GymTree · claude-local-docs · matteodante.it",
+  "cockpit.sections.projects.sub": "Maestro · GymTree · claude-local-docs",
   "cockpit.sections.skills.label": "COMPETENZE",
   "cockpit.sections.skills.title": "Stack",
   "cockpit.sections.skills.sub": "TS · React · Node · PHP · .NET",
@@ -279,5 +272,12 @@
   "cockpit.mobile.turnLeft": "Gira a sinistra",
   "cockpit.mobile.turnRight": "Gira a destra",
   "cockpit.audio.toggleOn": "Disattiva musica",
-  "cockpit.audio.toggleOff": "Attiva musica"
+  "cockpit.audio.toggleOff": "Attiva musica",
+  "projects.maestro.title": "Maestro",
+  "projects.maestro.desc": "Tutor AI nativo iOS disponibile su App Store. Trasforma qualsiasi obiettivo di apprendimento in un percorso con lezioni brevi, fonti, quiz, ripasso e chat tutor sempre pronta.",
+  "projects.maestro.badge": "App Store",
+  "projects.maestro.link": "Apri App Store",
+  "projects.gymtree.link": "Apri App Store",
+  "projects.claudeLocalDocs.link": "Apri GitHub",
+  "projects.portfolio.link": "Apri GitHub"
 }

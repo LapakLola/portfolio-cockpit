@@ -10,6 +10,11 @@ the repo). EN/IT.
 
 **Live demo:** <https://matteodante.it>
 
+## Featured App Store products
+
+- **[Maestro: Learn Anything](https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4)** — native iOS AI tutor with source-grounded lessons, quizzes, review, and tutor chat.
+- **[GymTree: Workout & AI Coach](https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4)** — solo-built fitness app with coach web, trainee mobile, subscriptions, background workers, and production AI coach flows.
+
 <p align="center">
   <img src="./preview/desktop.png" alt="Desktop view" width="74%" />
   &nbsp;

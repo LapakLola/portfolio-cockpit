@@ -44,7 +44,8 @@ export const LLMS_PUBLIC = `# Matteo Dante
 
 ## Personal projects
 
-- [matteodante.it portfolio](https://github.com/matteodante/portfolio-cockpit): Next.js 16 interactive 3D portfolio with streaming AI assistant. Stack: React Three Fiber, OpenAI Responses API streaming, i18n EN/IT.
+- [matteodante.it portfolio](https://github.com/matteodante/portfolio-cockpit): Next.js 16 interactive 3D portfolio with streaming AI assistant. Stack: vanilla Three.js, Next.js 16, OpenAI Responses API streaming, i18n EN/IT.
 - [claude-local-docs](https://github.com/matteodante/claude-local-docs): Open-source Claude Code plugin. Local-first docs indexer with vector embeddings, BM25, Reciprocal Rank Fusion, cross-encoder reranking. TypeScript.
-- GymTree (2025, in App Store review): Solo-built fitness platform: backend API, coach web, trainee mobile app, background workers. Production AI for persistent coach chat and personalized workout/nutrition plans. Stack: TypeScript, Hono, Prisma, PostgreSQL, Redis, BullMQ, React 19, Expo, Stripe, Sentry.
+- [Maestro: Learn Anything](https://apps.apple.com/us/app/maestro-learn-anything/id6780267046?uo=4): Native iOS AI tutor on the App Store. Source-grounded lessons, quizzes, review, and tutor chat. Stack: SwiftUI, SwiftData, Hono, Drizzle/Postgres, Vercel AI SDK.
+- [GymTree: Workout & AI Coach](https://apps.apple.com/us/app/gymtree-workout-ai-coach/id6761392403?uo=4): Solo-built fitness app on the App Store: backend API, coach web, trainee mobile app, background workers. Production AI for persistent coach chat and personalized workout/nutrition plans. Stack: TypeScript, Hono, Prisma, PostgreSQL, Redis, BullMQ, React 19, Expo, Stripe, Sentry.
 `
