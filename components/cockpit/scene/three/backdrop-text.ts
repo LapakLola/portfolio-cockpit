@@ -28,7 +28,7 @@ const font: Font = new FontLoader().parse(
 export function createBackdropText(
   scene: THREE.Scene,
   renderer: THREE.WebGLRenderer,
-  { text = 'PYASII JIIII', position, size = 16, depth = 2 }: Options = {}
+  { text = 'PYASI', position, size = 16, depth = 2 }: Options = {}
 ): BackdropTextBundle {
   const geo = new TextGeometry(text, {
     font,
